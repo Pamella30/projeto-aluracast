@@ -1,13 +1,13 @@
 body {
     display: grid;
     grid-template-areas: 
-        "aside header"
-        "aside main";
+    "aside header"
+    "aside main";
     grid-template-columns: auto 1fr;
 }
 
 .cabecalho {
-    grid-area: hearder
+    grid-area: header;
 }
 
 .menu-lateral {
