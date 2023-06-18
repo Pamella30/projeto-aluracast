@@ -1,9 +1,10 @@
-| :placard: Vitrine.Dev |     |
+| 🚀 Vitrine.Dev | | 
 | -------------  | --- |
-| :sparkles: Nome        | **AluraCast**
+| 📌 Projeto | **AluraCast**
 | :label: Tecnologias | HTML e CSS
-| :rocket: URL         | https://github.com/Pamella30/projeto-aluracast
-| :fire: Curso     | https://cursos.alura.com.br/course/css-construindo-layouts-grid
+| :globe_with_meridians: URL |https://projeto-aluracast-eight.vercel.app/
+| :file_folder: Arquivos |  https://github.com/Pamella30/projeto-aluracast
+| :computer: Curso | https://cursos.alura.com.br/course/css-construindo-layouts-grid
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://raw.githubusercontent.com/Pamella30/projeto-aluracast/main/AluraCast.png#vitrinedev)
